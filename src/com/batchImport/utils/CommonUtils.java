@@ -32,7 +32,7 @@ public class CommonUtils {
             int count = 1;
 
             String line;
-            String filePath = "C:\\Users\\hytra\\IdeaProjects\\batch-import\\dataSource.txt";
+            String filePath = "..\\batch-import\\dataSource.txt";
 
             BufferedReader br = new BufferedReader(new FileReader(filePath));
 
